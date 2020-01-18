@@ -1,2 +1,2 @@
-# diving-centre-ms1
-User Centric Frontend Development Milestone Project | Diving centre
+# Momentum Diving Centre
+User Centric Frontend Development Milestone Project | Momentum Diving Centre
