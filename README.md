@@ -1,6 +1,9 @@
 # Momentum Diving Centre
 User Centric Frontend Development Milestone Project | Momentum Diving Centre
 
+## Demo
+A live demo can be found [here](https://onisstudio.github.io/diving-centre-ms1/).
+
 ## UX
 
 ### Skeleton
@@ -10,8 +13,13 @@ User Centric Frontend Development Milestone Project | Momentum Diving Centre
 
 [Contact wireframe](https://github.com/onisstudio/diving-centre-ms1/blob/master/wireframes/contact.png)
 
+## Technologies
+1. HTML
+2. CSS
+3. Bootstrap (v4.4.1)
+
 # To Do
-- [ ] Add demo link
+- [x] Add demo link
 - [ ] Add UX:
     - [ ] user stories
     - [ ] strategy
@@ -19,7 +27,7 @@ User Centric Frontend Development Milestone Project | Momentum Diving Centre
     - [ ] structure
     - [x] skeleton
     - [ ] surface
-- [ ] Technologies
+- [x] Technologies
 - [ ] Features
 - [ ] Testing
 - [ ] Deployment
