@@ -18,6 +18,22 @@ A live demo can be found [here](https://onisstudio.github.io/diving-centre-ms1/)
 2. CSS
 3. Bootstrap (v4.4.1)
 
+## Deployment
+The site is hosted on GitHub, deployed from the master branch. The deployed site will update automatically upon new commits to the master branch.
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/onisstudio/diving-centre-ms1.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+## Credits
+
+### Content
+The content from "About Us" section, "Testimonials" section and "Services" page is written by me and it is a fictive content. All the names used are fictive.
+
+### Media
+The photos used in this site were obtained from [Pexels](https://www.pexels.com/).
+
+### Acknowledgements
+
+
 # To Do
 - [x] Add demo link
 - [ ] Add UX:
@@ -30,8 +46,8 @@ A live demo can be found [here](https://onisstudio.github.io/diving-centre-ms1/)
 - [x] Technologies
 - [ ] Features
 - [ ] Testing
-- [ ] Deployment
+- [x] Deployment
 - [ ] Credits:
-    - [ ] content
-    - [ ] media
+    - [x] content
+    - [x] media
     - [ ] acknowledgements
