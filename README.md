@@ -9,7 +9,9 @@ A live demo can be found [here](https://onisstudio.github.io/diving-centre-ms1/)
 ### Skeleton
 [Landing wireframe](https://github.com/onisstudio/diving-centre-ms1/blob/master/wireframes/landing.png)
 
-[Services wireframe](https://github.com/onisstudio/diving-centre-ms1/blob/master/wireframes/services.png)
+[Courses wireframe](https://github.com/onisstudio/diving-centre-ms1/blob/master/wireframes/courses.png)
+
+[Events wireframe](https://github.com/onisstudio/diving-centre-ms1/blob/master/wireframes/events.png)
 
 [Contact wireframe](https://github.com/onisstudio/diving-centre-ms1/blob/master/wireframes/contact.png)
 
