@@ -19,13 +19,13 @@
     <!-- Header -->
     <header class="container-fluid navbar-container">
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-            <a class="navbar-brand text-uppercase" href="index.html">Momentum Diving Centre</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
                 aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="collapse navbar-collapse" id="navbarToggler">
+                <a class="navbar-brand text-uppercase" href="index.html">Momentum <small>Diving Centre</small></a>
                 <ul class="navbar-nav ml-auto mt-lg-0">
                     <li class="nav-item">
                         <a class="nav-link" href="index.html">Home</a>
@@ -60,25 +60,25 @@
                         <div class="form-row">
                             <div class="form-group col-md-6">
                                 <label for="fname">First Name</label>
-                                <input type="text" class="form-control" id="fname">
+                                <input type="text" class="form-control" id="fname" required>
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="lname">Last Name</label>
-                                <input type="text" class="form-control" id="lname">
+                                <input type="text" class="form-control" id="lname" required>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="email">Email</label>
-                            <input type="email" class="form-control" id="email">
+                            <input type="email" class="form-control" id="email" required>
                         </div>
                         <div class="form-group">
                             <label for="phone">Phone</label>
-                            <input type="tel" class="form-control" id="phone">
+                            <input type="tel" class="form-control" id="phone" required>
                         </div>
                         <div class="form-group">
                             <label for="message">Message</label>
-                            <textarea class="form-control" id="message"
-                                placeholder="How can we help you today?"></textarea>
+                            <textarea class="form-control" id="message" placeholder="How can we help you today?"
+                                required></textarea>
                         </div>
                         <button type="submit" class="btn btn--blue">Send <i class="fa fa-paper-plane"></i></button>
                     </form>
