@@ -47,7 +47,7 @@ To run locally, you can clone this repository directly into the editor of your c
 ## Credits
 
 ### Content
-The content from "About Us" section, "Testimonials" section and "Services" page is written by me and it is a fictive content. All the names used are fictive. Some content used on "Courses" and "Events" pages are taken from: [Diver Rutland](http://www.diverutland.com/)
+The content from "About Us" section, "Testimonials" section and "Services" page is written by me and it is a fictive content. All the names used are fictive. Some content used on "Courses" and "Events" pages are taken from: [Dive Rutland](http://www.diverutland.com/)
 
 ### Media
 The photos used in this site were obtained from [Pexels](https://www.pexels.com/).
