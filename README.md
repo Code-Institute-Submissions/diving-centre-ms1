@@ -37,7 +37,7 @@ The color scheme offers a contrast between a dark gray and blue. Page titles, he
 3. Bootstrap (v4.4.1)
 
 ## Testing
-Both as a new diver or an experienced diver you can find what courses can you do or the events that you can attend at the centre. Tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices to ensure compatibility and responsiveness.
+Both as a new diver or an experienced diver you can find what courses you can do or the events that you can attend at the centre. Tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices to ensure compatibility and responsiveness.
 
 ## Deployment
 The site is hosted on GitHub, deployed from the master branch. The deployed site will update automatically upon new commits to the master branch.
