@@ -36,8 +36,13 @@ The color scheme offers a contrast between a dark gray and blue. Page titles, he
 2. CSS
 3. Bootstrap (v4.4.1)
 
+## Future Plans
+In the future, I would like to add the option to book time for a specific course and also a new page when the centre can service diving equipment.
+
 ## Testing
 Both as a new diver or an experienced diver you can find what courses you can do or the events that you can attend at the centre. Tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices to ensure compatibility and responsiveness.
+
+When submitting the contact form without a first name, last name, phone, message or an invalid email address, there will be an error asking to correctly input those fields. If all fields are valid, the page will reload.
 
 ## Deployment
 The site is hosted on GitHub, deployed from the master branch. The deployed site will update automatically upon new commits to the master branch.
